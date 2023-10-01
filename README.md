@@ -2,6 +2,7 @@
 
 ## About Me 🚀
 🎓 I'm a Senior in **Master's in Computer Science** and **Bachelor's in Computer Engineering** from Vanderbilt University.  
+👨‍💻 Design and Marketing Double Director at [VandyHacks](https://github.com/vandyhacks), largest Collegiate Hackathon in the South.  
 🎨 I'm passionate in **Graphic Design** and **Game Theory**.  
 🌱 Learning more about **Game Development, Full-Stack Development, and Machine Learning**.  
 💬 Ask me about **Python, C#, and Tech in general**.  
