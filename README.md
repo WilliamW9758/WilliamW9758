@@ -1,17 +1,22 @@
-## Hi! I'm
-# William Wu
+# Hello, I'm Yifan "William" Wu! 👋
 
-<!--
-**WilliamW9758/WilliamW9758** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
+🎓 I'm a Senior in **Master's in Computer Science** and **Bachelor's in Computer Engineering** from Vanderbilt University.  
+🎨 I'm passionate in **Graphic Design** and **Game Theory**.  
+🌱 Learning more about **Game Development, Full-Stack Development, and Machine Learning**.  
+💬 Ask me about **Python, C#, and Tech in general**.  
+📫 How to reach me: [wwu9758@gmail.com](mailto:wwu9758@gmail.com)  
 
-Here are some ideas to get you started:
+## My Tech Toolbox 🧰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: `Python`, `C#`, `C++`, `MATLAB`
+- **Game Dev**: `Unity C#`
+- **Machine Learning**: `PyTorch`, `NumPy`, `ITK`, `Tensorflow`, `Keras`, `OpenCV`
+- **Database**: `MySQL`, `MongoDB`
+- **Tools**: `Git`, `MiniNet`, `FlatBuffer`
+- **Other**: `Photoshop`, `Illustrator`, `Figma`, `Blender`
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamW9758&theme=tokyonight)
+
+## Connect with me 🌎
+- [LinkedIn](https://linkedin.com/in/yifan-william-wu/) | [Email](mailto:wwu9758@gmail.com)
