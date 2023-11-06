@@ -1,4 +1,5 @@
 # Hello, I'm Yifan "William" Wu! 👋
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=williamw9758&theme=dark&hide_border=true)<br/> -->
 
 ## About Me 🚀
 🎓 I'm a Senior in **Master's in Computer Science** and **Bachelor's in Computer Engineering** from Vanderbilt University.  
