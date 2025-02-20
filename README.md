@@ -12,7 +12,7 @@
 ## My Tech Toolbox 🧰
 
 - **Languages**: `Python`, `C#`, `C++`, `MATLAB`
-- **Game Dev**: `Unity C#`
+- **Game Dev**: `Unreal Engine`, `Unity C#`
 - **Machine Learning**: `PyTorch`, `NumPy`, `ITK`, `Tensorflow`, `Keras`, `OpenCV`
 - **Database**: `MySQL`, `MongoDB`
 - **Tools**: `Git`, `MiniNet`, `FlatBuffer`
