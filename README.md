@@ -1,24 +1,32 @@
-# Hello, I'm Yifan "William" Wu! 👋
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=williamw9758&theme=dark&hide_border=true)<br/> -->
+# Hi, I'm Yifan "William" Wu 👋
 
-## About Me 🚀
-🎓 I'm a Senior in **Master's in Computer Science** and **Bachelor's in Computer Engineering** from Vanderbilt University.  
-👨‍💻 Design and Marketing Double Director at [VandyHacks](https://github.com/vandyhacks), largest Collegiate Hackathon in the South.  
-🎨 I'm passionate in **Graphic Design** and **Game Theory**.  
-🌱 Learning more about **Game Development, Full-Stack Development, and Machine Learning**.  
-💬 Ask me about **Python, C#, and Tech in general**.  
-📫 How to reach me: [wwu9758@gmail.com](mailto:wwu9758@gmail.com)  
+Software engineer working in **C++ systems, platform services, and build infrastructure**. I like building things people can see and use.
 
-## My Tech Toolbox 🧰
+## Now
 
-- **Languages**: `Python`, `C#`, `C++`, `MATLAB`
-- **Game Dev**: `Unreal Engine`, `Unity C#`
-- **Machine Learning**: `PyTorch`, `NumPy`, `ITK`, `Tensorflow`, `Keras`, `OpenCV`
-- **Database**: `MySQL`, `MongoDB`
-- **Tools**: `Git`, `MiniNet`, `FlatBuffer`
-- **Other**: `Photoshop`, `Illustrator`, `Figma`, `Blender`
+- 🎮 **Software Engineer at [Iron Galaxy Studios](https://www.irongalaxystudios.com/)** (2024–present). Shipped 3 projects across 7 platforms (PC, Xbox, PlayStation, Switch, Switch 2): *Tony Hawk's Pro Skater 3+4*, *The Elder Scrolls V: Skyrim (Nintendo Switch 2 Edition)*, and Creations / Creation Kit support for *Skyrim* and *Fallout 4*.
+- 🛠️ Owned the studio-wide rollout of **Unreal Horde CI/CD + UBA distributed builds**, replacing a ~$75K/yr Incredibuild license.
+- 🖱️ Built **Joy-Con 2 mouse mode** for Skyrim on Switch 2 end to end, from SDK docs to a working prototype in two weeks.
+- 🔐 Worked on console **account auth, account linking, and entitlements**, and validated COPPA age-verification and parental-consent gating.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamW9758&theme=tokyonight)
+## Side project
 
-## Connect with me 🌎
-- [LinkedIn](https://linkedin.com/in/yifan-william-wu/) | [Email](mailto:wwu9758@gmail.com)
+📱 **[PocketPad](https://github.com/WilliamW9758/PocketPad)** — turn your iPhone into a customizable controller for your Mac. Free, open source, Swift / SwiftUI.
+
+## Background
+
+- 🎓 **M.S. Computer Science** (4.00) and **B.E. Computer Engineering**, magna cum laude — Vanderbilt University, 2024
+- 🔬 Research assistant at the Vanderbilt Institute for Surgery and Engineering: 3D U-Net kidney segmentation from CT; co-author on 3 peer-reviewed papers (SPIE Medical Imaging 2024, Healthcare Technology Letters 2023 ×2)
+
+## Toolbox 🧰
+
+- **Languages:** `C++ (17/20)` `C#` `Python` `Swift`
+- **Systems:** multithreading & concurrency, memory & crash debugging, cross-platform SDKs (Windows, Xbox, PlayStation, Nintendo)
+- **Engines:** `Unreal Engine` `Unity` proprietary engines
+- **Infra & tools:** `Unreal Horde` `UBA` CI/CD, distributed builds, automated testing, `Perforce` `Git`
+- **Services & auth:** REST APIs, OAuth2 / OIDC, SSO (Azure AD, Duo), token exchange, entitlements
+- **ML / CV:** `PyTorch` CNN segmentation, GAN style transfer, medical imaging
+
+## Connect 🌎
+
+[yifanwilliamwu.com](https://yifanwilliamwu.com) · [LinkedIn](https://linkedin.com/in/yifan-william-wu/) · [Email](mailto:wwu9758@gmail.com)
