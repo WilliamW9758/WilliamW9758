@@ -20,7 +20,7 @@ Software engineer working in **C++ systems, platform services, and build infrast
 
 ## Toolbox 🧰
 
-- **Languages:** `C++ (17/20)` `C#` `Python` `Swift`
+- **Languages:** `C++ (17/20)` `C#` `Python`
 - **Systems:** multithreading & concurrency, memory & crash debugging, cross-platform SDKs (Windows, Xbox, PlayStation, Nintendo)
 - **Engines:** `Unreal Engine` `Unity` proprietary engines
 - **Infra & tools:** `Unreal Horde` `UBA` CI/CD, distributed builds, automated testing, `Perforce` `Git`
@@ -29,4 +29,4 @@ Software engineer working in **C++ systems, platform services, and build infrast
 
 ## Connect 🌎
 
-[yifanwilliamwu.com](https://yifanwilliamwu.com) · [LinkedIn](https://linkedin.com/in/yifan-william-wu/) · [Email](mailto:wwu9758@gmail.com)
+[LinkedIn](https://linkedin.com/in/yifan-william-wu/) · [Email](mailto:wwu9758@gmail.com)
